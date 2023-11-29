@@ -153,8 +153,6 @@ namespace BTL_TTCMWeb.Areas.admin.ApiControllers
         {
             try
             {
-
-
                 tbl_product tbl_Product = new tbl_product();
                 tbl_Product.product_id = product_id;
                 tbl_Product.product_name = product_name;
